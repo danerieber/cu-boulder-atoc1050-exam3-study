@@ -1,9 +1,3 @@
-<style>
-    img {
-        max-width: 700px;
-    }
-</style>
-
 # CU Boulder ATOC 1050 Exam 3 Study Document
 
 # Preface
