@@ -164,7 +164,7 @@ I made this a couple days before Exam 3 for CU Boulder's ATOC 1050 to help me cr
 <tr>
     <td>cP</td>
     <td>continental</td>
-	<td>maritime</td>
+	<td>polar</td>
 </tr>
 <tr>
 	<td>cT</td>
